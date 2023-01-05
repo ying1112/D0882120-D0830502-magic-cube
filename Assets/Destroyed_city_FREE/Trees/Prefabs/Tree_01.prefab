@@ -71,8 +71,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000}
-  - {fileID: 2100002}
+  - {fileID: 2100000, guid: 61c38bf45001ab94fbe99156e2d21e5a, type: 2}
+  - {fileID: 2100000, guid: 61c38bf45001ab94fbe99156e2d21e5a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -644,7 +644,7 @@ MonoBehaviour:
   m_Name: Tree Data
   m_EditorClassIdentifier: 
   _uniqueID: 10110
-  materialHash: db477d184651af93a358128fa4236a89-730329088
+  materialHash: f38c3139288c3376be5bca53d6fbe70d-730329088
   root:
     _uniqueID: 1
     seed: 3706554
